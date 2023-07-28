@@ -1,0 +1,1 @@
+export { SpinnerTemplate as Spinner } from './SpinnerTemplate';
